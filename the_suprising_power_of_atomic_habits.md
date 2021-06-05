@@ -11,3 +11,13 @@ Time magnifies the margin between success and failure. Good habits make time you
 Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change.
 
 Similarly, habits often appear to make no difference until you cross a critical threshold and unlock a new level of performance.
+
+You expect to make progress in a linear fashion and it's frustrating how ineffectiveness changes can seem during the first days, weeks, and even months.
+
+This is one of the core reasons why it is so hard to build habits that last.
+
+Goals are about the results you want to achieve. Systems are about the processes that lead to those results.
+
+Goals are good for setting a direction, but systems are best for making progress.
+
+You do not rise to the level of your goals. You fall to the level of your systems.
