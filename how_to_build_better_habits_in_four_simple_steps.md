@@ -17,3 +17,19 @@ In summary, the cue triggers a craving, which motivates a response, which provid
 We can split these four steps into two phases: the problem phase and the solution phase.
 
 We need to transform these four steps into a practical framework that we can use to design good habits and eliminate bad ones. The framework is called "the Four Laws of Behavior Change" by the author.
+
+How to create a good habit:
+
+- Make it obvious.
+- Make it attractive.
+- Make it easy.
+- Make it satisfying.
+
+How to break a bad habit:
+
+- Make it invisible.
+- Make it unattractive.
+- Make it difficult.
+- Make it unsatisfying.
+
+The key to creating good habits and breaking bad ones is to understand these fundamental laws and how to alter them to your specifications.
